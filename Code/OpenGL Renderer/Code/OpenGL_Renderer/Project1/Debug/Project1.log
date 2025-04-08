@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/Main.cpp')
+      C:\School\Masterproef\Code\OpenGL Renderer\Code\OpenGL_Renderer\Project1\include\glad\glad.h(32,9):
+      see previous definition of 'APIENTRY'
+  
+C:\School\Masterproef\Code\OpenGL Renderer\Code\OpenGL_Renderer\Project1\include\UpdateOpenGLParameters.h(21,52): warning C4552: '*': result of expression not used
+  (compiling source file 'Source/Main.cpp')
+  
+  Project1.vcxproj -> C:\School\Masterproef\Code\OpenGL Renderer\Code\OpenGL_Renderer\Debug\Project1.exe

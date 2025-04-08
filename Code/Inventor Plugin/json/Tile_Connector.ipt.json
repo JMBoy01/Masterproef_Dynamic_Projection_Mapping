@@ -1,0 +1,14 @@
+{
+    "-0.25": {
+        "dimensions": [
+            "d0"
+        ],
+        "active": false
+    },
+    "-0.125": {
+        "dimensions": [
+            "d2"
+        ],
+        "active": false
+    }
+}

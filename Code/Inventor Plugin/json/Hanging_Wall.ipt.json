@@ -1,0 +1,32 @@
+{
+    "-0.25": {
+        "dimensions": [
+            "d3",
+            "d4",
+            "d10",
+            "d12"
+        ],
+        "active": false
+    },
+    "0.25": {
+        "dimensions": [
+            "d8"
+        ],
+        "active": false
+    },
+    "-0.35": {
+        "dimensions": [
+            "d3",
+            "d4",
+            "d10",
+            "d12"
+        ],
+        "active": false
+    },
+    "0.35": {
+        "dimensions": [
+            "d8"
+        ],
+        "active": false
+    }
+}

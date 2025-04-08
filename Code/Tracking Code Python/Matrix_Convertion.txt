@@ -1,0 +1,4 @@
+W2P = C2P x W2C
+pose van model in projector space = extrinsieke kalibratie matrix X solvePnP pose van object
+
+als ik deze pose (W2P) dan gebruik -> OpenGL camera in origin zetten van wereld

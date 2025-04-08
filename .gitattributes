@@ -1,0 +1,16 @@
+*.obj
+*.iam
+*.ipt
+*.stl
+*.glb
+*.gcode
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.gan
+*.pdf
+*.docx
+*.zip
+*.dll
+*.lib
